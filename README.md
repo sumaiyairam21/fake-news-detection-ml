@@ -1,21 +1,33 @@
-# Fake News Detection using Machine Learning
+# Fake News Detection
 
 ## Overview
-This project predicts whether a news article is fake or real.
 
-## Tech Stack
-- Python
-- Pandas
-- Scikit-learn
-- NLP
-- Streamlit
+This project detects whether a news article is fake or real using machine learning and natural language processing techniques.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* NLP
+* Streamlit
 
 ## Workflow
-1. Data cleaning
-2. Text preprocessing
-3. TF-IDF vectorization
-4. Logistic Regression training
-5. Prediction
 
-## Result
-Achieved 96% accuracy. 
+* Dataset preparation
+* Text preprocessing and cleaning
+* TF-IDF vectorization
+* Train-test split
+* Logistic Regression model training
+* Prediction generation
+* Accuracy evaluation
+
+## Model Used
+
+* Logistic Regression
+
+## Outcome
+
+Built a machine learning classifier capable of identifying fake and real news articles using NLP-based feature extraction and classification techniques.
+
